@@ -1,0 +1,15 @@
+{
+  "name": "4-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --no-cache"
+  },
+  "author": "Anna <famzu2018@gmail.com>",
+  "license": "ISC",
+  "description": "homework nomber 4 4 semester",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
